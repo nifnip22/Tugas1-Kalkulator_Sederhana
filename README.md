@@ -3,7 +3,8 @@
 
 ### 👤 Identitas Mahasiswa
 - **Nama:** Hanif Ahmad  
-- **NIM:** 2411098  
+- **NIM:** 2411098
+- **Universitas:** Universitas Mulia Balikpapan  
 - **Program Studi:** Informatika
 
 ---
